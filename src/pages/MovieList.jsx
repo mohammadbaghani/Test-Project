@@ -1,4 +1,4 @@
-import Card from "./components/Card";
+import Card from "../components/Card";
 import useFetch from "../hooks/useFetch";
 import useTitle from "../hooks/useTitle";
 import Loader from "../components/Loader";
